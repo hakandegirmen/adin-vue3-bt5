@@ -6,7 +6,7 @@ function setTheme(theme) {
 <template>
   <div class="dropdown">
     <button
-      class="btn btn-secondary dropdown-toggle"
+      class="btn dropdown-toggle"
       type="button"
       id="themeDropdown"
       data-bs-toggle="dropdown"
